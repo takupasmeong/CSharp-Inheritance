@@ -1,0 +1,11 @@
+D:\pemrograman semester 2\tugas\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.exe
+D:\pemrograman semester 2\tugas\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.deps.json
+D:\pemrograman semester 2\tugas\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.json
+D:\pemrograman semester 2\tugas\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.dev.json
+D:\pemrograman semester 2\tugas\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.dll
+D:\pemrograman semester 2\tugas\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.pdb
+D:\pemrograman semester 2\tugas\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csprojAssemblyReference.cache
+D:\pemrograman semester 2\tugas\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+D:\pemrograman semester 2\tugas\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+D:\pemrograman semester 2\tugas\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.dll
+D:\pemrograman semester 2\tugas\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.pdb
